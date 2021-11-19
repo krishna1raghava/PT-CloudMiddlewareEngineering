@@ -6,5 +6,11 @@ om sridi sai
 
 america
 this is newzeland 
+<<<<<<< HEAD
+after newzeland , this is canada
+fetch test
+this test for merge
+=======
 line for 191121
 tis is line 
+>>>>>>> upstream/main
